@@ -46,7 +46,8 @@ body {
 }
 
 .container .image img{
-    width: 24rem
+    width: 31rem;
+    margin-left: 10rem;
 }
 
 .container .text {
